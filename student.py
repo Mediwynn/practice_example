@@ -8,3 +8,5 @@ class student:
         info = f"Student name: {self.name}  Student age: {self.age}"
         display = print(info)
         return display
+    
+    
